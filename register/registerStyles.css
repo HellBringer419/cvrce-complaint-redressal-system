@@ -1,0 +1,7 @@
+.regForm {
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 10%;
+    grid-gap: 2.5%;
+}
